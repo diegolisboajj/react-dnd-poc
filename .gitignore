@@ -1,0 +1,14 @@
+# node
+node_modules
+
+# misc
+*.log
+*.zip
+*.vscode
+.env
+tf-work
+report.xml
+
+.DS_Store
+package-lock.json
+junit.xml
